@@ -39,3 +39,28 @@ Controller
 	* Membuat controller baru : "php artisan make:controller <nama_controller>Controller"
 		contoh : php artisan make:controller MahasiswaController
 
+
+<--- PERTEMUAN 4 --->
+
+* Cara cepat membuat controller dan sedikit routes : "php artisan make:model <nama_model> -crm"
+* Controller resource sudah di set up kan isi nya oleh laravel
+* Dump and die : "dd(<isi bisa variabel atau isi manual>)"
+
+Routes
+	Method:
+		- get -> basic
+		- post -> biasanya saat mengirim form untuk nambah (create)
+		- put -> biasanya saat mengirim form update (mengubah)
+		- patch -> mirip dengan put
+		- delete -> buat nghapus
+
+
+
+
+
+
+
+
+
+
+

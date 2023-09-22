@@ -15,7 +15,7 @@ return new class extends Migration
             $table->id();
             $table->string('name');
             $table->integer('nim');
-            $table->string('prodi');
+            $table->string('jurusan');
             $table->timestamps();
         });
     }

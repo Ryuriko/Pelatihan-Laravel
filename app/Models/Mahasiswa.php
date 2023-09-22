@@ -12,5 +12,4 @@ class Mahasiswa extends Model
     protected $guarded = [
         'id'
     ];
-
 }
